@@ -1,5 +1,7 @@
 # Mutex watershed implementation in C++
 
+This repository provides a `c++` implementation of the `Mutex Watershed` algorithm that was proposed in [Wolf et al. (2021)](https://ieeexplore.ieee.org/abstract/document/9036993).
+
 ## Build
 To build the project with cmake, execute the following commands starting from the project root directory
 ```
